@@ -1,2 +1,2 @@
 # To-Do-List-App
-A simple todo list app with django
+A simple to-do list web-app with django.
